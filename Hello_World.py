@@ -13,4 +13,4 @@ class UserApp(object):
 
          start_time = time.time()
          elapsed_time = time.time() - start_time
-         print elapsed_time, " seconds wall time for Hello World script\n"
+         print elapsed_time, " seconds wall time for Hello World script\n "
